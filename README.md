@@ -5,7 +5,10 @@
 
 </div>
 
-## 🎯 Overview
+🏅 Ranked **7th out of 71 projects** — Selected among the **Top 10 Best Posters**  
+AI Specialization Program, KAUST Academy (Summer 2025)
+ 
+##  Overview
 
 Long surveillance videos are notoriously difficult to navigate and understand. Traditional approaches rely on simplistic methods like scene transitions or color changes, which often miss the actual meaningful activities happening in the footage.
 
