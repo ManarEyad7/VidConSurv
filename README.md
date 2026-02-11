@@ -5,6 +5,39 @@
 
 </div>
 
+## 🎯 Overview
+
+Long surveillance videos are notoriously difficult to navigate and understand. Traditional approaches rely on simplistic methods like scene transitions or color changes, which often miss the actual meaningful activities happening in the footage.
+
+**Our Solution:** We've developed an intelligent system that transforms hours of surveillance footage into digestible, searchable segments with AI-generated descriptions.
+
+## The Problem
+
+- **Hours of footage** to manually review
+- **Traditional methods** (scene detection, color changes) miss real activities
+- **No semantic understanding** of what's actually happening
+- **Difficult to search** or retrieve specific events
+
+## Our Approach
+
+### Motion-Based Segmentation
+Instead of relying on visual changes, we use **optical flow analysis** to detect actual movement and activities in the video. This captures:
+- Real human activities and interactions
+- Object movements and changes
+- Meaningful events rather than just visual transitions
+
+### AI-Powered Captioning
+Each detected segment is automatically analyzed and described using AI, providing:
+- **Clear, structured descriptions** of activities
+- **Semantic understanding** of events
+- **Searchable metadata** for easy retrieval
+
+### The Result
+✅ Richer video understanding  
+✅ More accurate activity descriptions  
+✅ Better segment retrieval and search  
+✅ Reduced manual review time  
+
 
 
 ## Setup
